@@ -1,6 +1,7 @@
-# Exemplo de Site WordPress - Miniaturas de Perspectiva
+# Landing Page WordPress - Miniaturas de Perspectiva
 
-Este repositório contém miniaturas que representam diferentes partes de um site WordPress.
+Este design foi todo desenvolvido pelo próprio cliente, no canvas. https://minsdset.my.canva.site/
+O mesmo pediu para reproduzi-lo em wordpress. https://ostop.digital/mindset/wordpress/
 
 ## Cabeçalho
 ![Cabeçalho](perspectiva/1.png)
